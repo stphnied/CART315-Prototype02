@@ -12841,7 +12841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65e348dbee8562a48bd7386617353498, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forceMagnitude: 1
+  forceMagnitude: 0.5
   timeRemaining: 60
   TimerText: {fileID: 425880711}
   PointsText: {fileID: 84115093}
