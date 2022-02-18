@@ -1,5 +1,4 @@
-# CART315-Prototype02: Today, I'm an a**hole.
- 
+# Prototype 02: Today, I'm an a**hole.
 **Design Hypothesis**
 
 In general, video games revolve around the story of a "hero" character that saves the world or is characterized as the good guy. But… What if we reverse the role and give the player the role of the vilain? Can the player still feel a sense of fulfillment and joy?
