@@ -3,7 +3,7 @@
 
 In general, video games revolve around the story of a "hero" character that saves the world or is characterized as the good guy. But… What if we reverse the role and give the player the role of the vilain? Can the player still feel a sense of fulfillment and joy?
 
-In this prototype, the player is portrayed as a cute little cat that woke up today and chose violence. The player has 60 seconds to make a complete mess of the human's kitchen. Some known issues to the current prototype: the cat gets propelled in the air when pushing an object. I also experimented with level design/world building. As much as I like cats, sometimes they can be assholes (I still love them).
+In this prototype, the player is portrayed as a cute little cat that woke up today and chose violence. The player has 60 seconds to make a complete mess of the human's kitchen. Some known issues to the current prototype: the cat gets propelled in the air when pushing an object.
 
 **Questions**  
 
