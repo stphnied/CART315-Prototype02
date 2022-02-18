@@ -20,3 +20,6 @@ In this prototype, the player is portrayed as a cute little cat that woke up tod
 6. As you might have seen, the collision between the object propels the character up in the air. Did you find any other issues?
 
 7. Something you would add to further improve the game experience?
+
+---
+*Assets from Omabuarts Studio & VNBP*
