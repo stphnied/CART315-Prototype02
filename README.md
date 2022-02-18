@@ -7,7 +7,7 @@ In this prototype, the player is portrayed as a cute little cat that woke up tod
 
 **Questions**  
 
-1. How did it feel to be the ~~asshole~~ “bad guy” in this story?
+1. How did it feel to be the “bad guy” in this story?
 
 2. Was the environment convincing or did it feel unrealistic?
 
